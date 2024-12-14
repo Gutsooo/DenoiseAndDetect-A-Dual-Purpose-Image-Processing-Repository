@@ -1,5 +1,4 @@
 ![babon_saltnoise_0 7](https://github.com/user-attachments/assets/d3f370f1-8132-4748-bce2-86e6f2cac6bb)
-![im_99](https://github.com/user-attachments/assets/3196835e-ba23-4cb3-b8be-1bff93e3d71b)
 
 <html lang="en">
 <head>
@@ -32,14 +31,11 @@
 <li>Develop a function to detect and locate numbers in an image using contour detection.</li>
 </ul>
 
-<h2>Author</h2>
-<p>Ahmad Mardani</p>
-<ul>
-<li><strong>Email</strong>: your-email@example.com</li>
-<li><strong>GitHub</strong>: <a href="https://github.com/yourusername">yourusername</a></li>
-</ul>
+
 
 <h2>Acknowledgments</h2>
 <p>Special thanks to the Computer Vision course instructor for providing this assignment, which helped enhance our skills in noise reduction and object detection in images.</p>
 </body>
 </html>
+
+![im_99](https://github.com/user-attachments/assets/3196835e-ba23-4cb3-b8be-1bff93e3d71b)
