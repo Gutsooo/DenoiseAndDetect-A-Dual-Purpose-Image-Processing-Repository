@@ -1,11 +1,11 @@
-<!DOCTYPE html>![im_99](https://github.com/user-attachments/assets/7e202fd5-3980-46a2-9c3b-be2376291812)
 ![babon_saltnoise_0 7](https://github.com/user-attachments/assets/d3f370f1-8132-4748-bce2-86e6f2cac6bb)
+![im_99](https://github.com/user-attachments/assets/3196835e-ba23-4cb3-b8be-1bff93e3d71b)
 
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Assignment 3 - Computer Vision</title>
+<!-- <title>Assignment 3 - Computer Vision</title> -->
 </head>
 <body>
 <h1>Assignment 3 - Computer Vision</h1>
